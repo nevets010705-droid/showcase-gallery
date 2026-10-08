@@ -21,7 +21,7 @@ return (
         </h2>
 
         <p className="mt-3 text-white/80">
-        {products.length} items available • by JANJAN
+        {products.length} items available • by Garcia Steven
         </p>
     </section>
 
